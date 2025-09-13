@@ -7,3 +7,6 @@ This project is a **machine learning application** that recommends the most suit
 - Predicts the best crop to plant based on input parameters.
 - Uses a trained machine learning model for accurate recommendations.
 - Streamlit interface for interactive user experience.
+
+URL- https://crop-recommendation-system-4wa1.onrender.com/
+
